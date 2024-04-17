@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #0F0F0F;
+    color: #FFFFFF;
+}
+
+.container {
+    max-width: 800px;
+    margin: 100px auto;
+    text-align: center;
+}
+
+.share-options {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.share-options button {
+    padding: 10px 20px;
+    margin: 0 10px;
+    background-color: #00FF7F;
+    border: none;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.share-options button:hover {
+    background-color: #00E676;
+}
