@@ -1,5 +1,5 @@
 function share(platform) {
-    var url = 'https://bcgamee.github.io/BCD-AIRDROP/';
+    var url = 'https://bcgameairdrop.github.io/bc.game-/';
 
     switch(platform) {
         case 'whatsapp':
